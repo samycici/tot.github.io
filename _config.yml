@@ -1,0 +1,55 @@
+# Welcome to Jekyll!
+#
+
+# Site settings
+title: Team Of Thought
+description: |
+  Um time com foco ágil em resolver problemas, 
+  construir colaboração e 
+  criar coisas incríveis.
+owner: ToT # or company name
+first_published: 2016 # if migrating another site, the year of your first publish
+email: 
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://tot.github.io" # the base hostname & protocol for your site
+social:
+  facebook-official: https://www.facebook.com/totinitiative/
+  #email: /contact/
+  #flickr:
+  #instagram:
+  #youtube-square:
+  #spotify:
+  #stack-overflow:
+  #vimeo:
+  #reddit:
+  #stubleupon:
+  #delicious:
+  #pied-piper:
+  #digg:
+  #soundcloud:
+  #deviantart:
+  #angellist:
+  #tumblr-square:
+  #stackexchange:
+  #weibo:
+  #trello:
+  #foursquare:
+  #linux:
+  #bitbucket-square:
+  #vk:
+  #slack:
+  #vine:
+  #weixin:
+  #yelp:
+  #skyatlas:
+  #leanpub:
+  #connectdevelop:
+  #ils:
+  #forumbee:
+  #tripadvisor:
+  #amazon:
+
+# Build settings
+markdown: kramdown
+#sass:
+#  style: compressed
